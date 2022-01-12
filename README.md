@@ -1,2 +1,2 @@
 # Delphi_Dynamic_Threat_Rutin
-Kumpulan Threat untuk Delphi Untukku Sendiri
+Kumpulan Threat untuk Delphi / Pascal
